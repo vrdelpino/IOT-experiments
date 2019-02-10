@@ -1,6 +1,6 @@
-# CacharritoIOT
+# IOT Experiments
 
-CacharritoIOT is a test project using Intel Edison IOT, AWS and Python.
+IOT Experiments is a test project using Intel Edison IOT, AWS and Python.
 
 ### Intel Edison IOT
 
